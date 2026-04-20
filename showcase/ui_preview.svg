@@ -1,0 +1,29 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main Background -->
+  <rect width="800" height="500" rx="10" fill="#F8F9FA"/>
+  
+  <!-- Navbar -->
+  <rect width="800" height="60" fill="white" stroke="#E9ECEF"/>
+  <text x="40" y="38" fill="#212529" font-family="Arial" font-size="20" font-weight="bold">💻 Aditya Garg Computers</text>
+  <text x="550" y="35" fill="#495057" font-family="Arial" font-size="14">Home   Services   Contact</text>
+
+  <!-- Hero Section -->
+  <rect x="40" y="100" width="720" height="200" rx="10" fill="#E9ECEF"/>
+  <text x="80" y="160" fill="#212529" font-family="Arial" font-size="32" font-weight="bold">Expert Computer Repair &amp; Service</text>
+  <text x="80" y="200" fill="#495057" font-family="Arial" font-size="18">Professional tech support at your doorstep.</text>
+  <rect x="80" y="230" width="150" height="40" rx="5" fill="#0D6EFD"/>
+  <text x="110" y="255" fill="white" font-family="Arial" font-size="14">Book a Service</text>
+
+  <!-- Services Grid -->
+  <rect x="40" y="330" width="220" height="130" rx="10" fill="white" stroke="#E9ECEF"/>
+  <text x="60" y="365" fill="#212529" font-family="Arial" font-size="16" font-weight="bold">🔧 Hardware Repair</text>
+  <text x="60" y="395" fill="#6C757D" font-family="Arial" font-size="12">Laptops, Desktops &amp; Components.</text>
+
+  <rect x="290" y="330" width="220" height="130" rx="10" fill="white" stroke="#E9ECEF"/>
+  <text x="310" y="365" fill="#212529" font-family="Arial" font-size="16" font-weight="bold">🌐 Networking</text>
+  <text x="310" y="395" fill="#6C757D" font-family="Arial" font-size="12">Router setup &amp; WiFi optimization.</text>
+
+  <rect x="540" y="330" width="220" height="130" rx="10" fill="white" stroke="#E9ECEF"/>
+  <text x="560" y="365" fill="#212529" font-family="Arial" font-size="16" font-weight="bold">🛡️ Software Support</text>
+  <text x="560" y="395" fill="#6C757D" font-family="Arial" font-size="12">Virus removal &amp; OS install.</text>
+</svg>
